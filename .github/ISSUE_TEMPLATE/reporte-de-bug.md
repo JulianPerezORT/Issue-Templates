@@ -14,7 +14,7 @@ assignees: ''
 **Descripción**:
 [Explicación en detalle del problema encontrado]
 
-**Pasos para Reproducir**:
+**Como llego a ese bug**:
 1. [Primer paso]
 2. [Segundo paso]
 3. ...
