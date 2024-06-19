@@ -7,23 +7,13 @@ assignees: ''
 
 ---
 
-## Bug
+Título: [Título descriptivo del problema de documentación]
 
-**Título**: [Título descriptivo del bug encontrado]
+Descripción:
+[Explicación del problema de documentación, indicando la sección afectada]
 
-**Descripción**:
-[Explicación en detalle del problema encontrado]
+Contexto adicional:
+[Proporcionar cualquier contexto adicional, como la versión del software o módulo específico]
 
-**Como llego a ese bug**:
-1. [Primer paso]
-2. [Segundo paso]
-3. ...
-
-**Resultado Esperado**:
-[Descripción de lo que se esperaba que ocurriera]
-
-**Resultado Real**:
-[Descripción de lo que realmente ocurrió]
-
-**Contexto adicional**:
-[Proporcionar información adicional, como la versión del software, sistema operativo, etc.]
+Archivos adjuntos:
+[Incluir screenshots o archivos relevantes si es necesario]
