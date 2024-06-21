@@ -1,6 +1,6 @@
 ---
 name: Reporte de Documentacion
-about: Reporte de error de coumentacion en lo .md
+about: Reporte de error de doumentacion en lo .md
 title: ''
 labels: ''
 assignees: ''
