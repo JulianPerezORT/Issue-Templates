@@ -9,16 +9,16 @@ assignees: ''
 
 ## Pedido de Nueva Funcionalidad
 
-**Título**: [Título descriptivo de la funcionalidad solicitada]
+*Título*: [Título descriptivo de la funcionalidad solicitada]
 
-**Descripción**:
+*Descripción*:
 [Descripción detallada de la funcionalidad deseada]
 
-**Justificación**:
+*Justificación*:
 [Explicar por qué esta nueva funcionalidad es necesaria]
 
-**Uso Propuesto**:
+*Uso Propuesto*:
 [Describir cómo se espera que los usuarios utilicen la nueva funcionalidad]
 
-**Impacto**:
-[Evaluar el impacto de la funcionalidad solicitada en el sistema actual]
+*Impacto*:
+[Evaluar el impacto de la funcionalidad solicitada en el sistema actual]

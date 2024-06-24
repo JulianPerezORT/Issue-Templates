@@ -9,13 +9,13 @@ assignees: ''
 
 ## Mejora
 
-**Título**: [Título descriptivo de la mejora propuesta]
+*Título*: [Título descriptivo de la mejora propuesta]
 
-**Descripción**:
+*Descripción*:
 [Explicación en detalle de la mejora propuesta y por qué es necesaria]
 
-**Beneficios**:
+*Beneficios*:
 [Describir cómo la mejora beneficiará a los usuarios]
 
-**Impacto**:
+*Impacto*:
 [Evaluar el impacto que puede tener la mejora en el sistema actual]
